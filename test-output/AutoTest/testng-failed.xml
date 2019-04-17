@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutoTest]">
+  <test thread-count="5" name="addStaff(failed)">
+    <classes>
+      <class name="testSelenium.testStaffs">
+        <methods>
+          <include name="setup"/>
+          <include name="addStaffs_18"/>
+          <include name="haha"/>
+        </methods>
+      </class> <!-- testSelenium.testStaffs -->
+    </classes>
+  </test> <!-- addStaff(failed) -->
+</suite> <!-- Failed suite [AutoTest] -->

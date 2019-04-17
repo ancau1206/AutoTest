@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="63" passed="62">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152238" started-at="2019-03-04T12:27:03Z" finished-at="2019-03-04T12:29:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152238" started-at="2019-03-04T12:27:03Z" finished-at="2019-03-04T12:29:35Z">
+      <class name="testSelenium.testStaffs">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:19Z" finished-at="2019-03-04T12:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="2930" started-at="2019-03-04T12:27:19Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2019-03-04T12:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:22Z" finished-at="2019-03-04T12:27:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="168" started-at="2019-03-04T12:27:22Z" finished-at="2019-03-04T12:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_01()[pri:1, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_01" duration-ms="1244" started-at="2019-03-04T12:27:22Z" finished-at="2019-03-04T12:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_01 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="672" started-at="2019-03-04T12:27:23Z" finished-at="2019-03-04T12:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:24Z" finished-at="2019-03-04T12:27:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:24Z" finished-at="2019-03-04T12:27:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_02()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="253" started-at="2019-03-04T12:27:24Z" finished-at="2019-03-04T12:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_02()[pri:2, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_02" duration-ms="1169" started-at="2019-03-04T12:27:24Z" finished-at="2019-03-04T12:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_02 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="146" started-at="2019-03-04T12:27:25Z" finished-at="2019-03-04T12:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:25Z" finished-at="2019-03-04T12:27:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_02()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:25Z" finished-at="2019-03-04T12:27:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="135" started-at="2019-03-04T12:27:25Z" finished-at="2019-03-04T12:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_03()[pri:3, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_03" duration-ms="1165" started-at="2019-03-04T12:27:26Z" finished-at="2019-03-04T12:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_03 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="106" started-at="2019-03-04T12:27:27Z" finished-at="2019-03-04T12:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:27Z" finished-at="2019-03-04T12:27:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:27Z" finished-at="2019-03-04T12:27:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_04()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="98" started-at="2019-03-04T12:27:27Z" finished-at="2019-03-04T12:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_04()[pri:4, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_04" duration-ms="1229" started-at="2019-03-04T12:27:27Z" finished-at="2019-03-04T12:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_04 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="110" started-at="2019-03-04T12:27:28Z" finished-at="2019-03-04T12:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:28Z" finished-at="2019-03-04T12:27:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_04()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="111" started-at="2019-03-04T12:27:28Z" finished-at="2019-03-04T12:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:28Z" finished-at="2019-03-04T12:27:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_05()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_05()[pri:5, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_05" duration-ms="1191" started-at="2019-03-04T12:27:28Z" finished-at="2019-03-04T12:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_05 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="117" started-at="2019-03-04T12:27:30Z" finished-at="2019-03-04T12:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:30Z" finished-at="2019-03-04T12:27:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_05()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:30Z" finished-at="2019-03-04T12:27:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_06()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="132" started-at="2019-03-04T12:27:30Z" finished-at="2019-03-04T12:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_06()[pri:6, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_06" duration-ms="1316" started-at="2019-03-04T12:27:30Z" finished-at="2019-03-04T12:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_06 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="163" started-at="2019-03-04T12:27:31Z" finished-at="2019-03-04T12:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:31Z" finished-at="2019-03-04T12:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_06()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:31Z" finished-at="2019-03-04T12:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_07()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="133" started-at="2019-03-04T12:27:31Z" finished-at="2019-03-04T12:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_07()[pri:7, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_07" duration-ms="1352" started-at="2019-03-04T12:27:31Z" finished-at="2019-03-04T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_07 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="182" started-at="2019-03-04T12:27:33Z" finished-at="2019-03-04T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:33Z" finished-at="2019-03-04T12:27:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_07()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:33Z" finished-at="2019-03-04T12:27:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_08()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="157" started-at="2019-03-04T12:27:33Z" finished-at="2019-03-04T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_08()[pri:8, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_08" duration-ms="1401" started-at="2019-03-04T12:27:33Z" finished-at="2019-03-04T12:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_08 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="136" started-at="2019-03-04T12:27:35Z" finished-at="2019-03-04T12:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:35Z" finished-at="2019-03-04T12:27:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_08()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="170" started-at="2019-03-04T12:27:35Z" finished-at="2019-03-04T12:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:35Z" finished-at="2019-03-04T12:27:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_09()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_09()[pri:9, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_09" duration-ms="1438" started-at="2019-03-04T12:27:35Z" finished-at="2019-03-04T12:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_09 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="157" started-at="2019-03-04T12:27:36Z" finished-at="2019-03-04T12:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:36Z" finished-at="2019-03-04T12:27:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_09()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:36Z" finished-at="2019-03-04T12:27:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_10()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="145" started-at="2019-03-04T12:27:36Z" finished-at="2019-03-04T12:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_10()[pri:10, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_10" duration-ms="1462" started-at="2019-03-04T12:27:37Z" finished-at="2019-03-04T12:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_10 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="214" started-at="2019-03-04T12:27:38Z" finished-at="2019-03-04T12:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:38Z" finished-at="2019-03-04T12:27:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_10()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="170" started-at="2019-03-04T12:27:38Z" finished-at="2019-03-04T12:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:38Z" finished-at="2019-03-04T12:27:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_11()[pri:11, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_11" duration-ms="1757" started-at="2019-03-04T12:27:38Z" finished-at="2019-03-04T12:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_11 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="296" started-at="2019-03-04T12:27:40Z" finished-at="2019-03-04T12:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:40Z" finished-at="2019-03-04T12:27:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:40Z" finished-at="2019-03-04T12:27:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="173" started-at="2019-03-04T12:27:40Z" finished-at="2019-03-04T12:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_12()[pri:12, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_12" duration-ms="1725" started-at="2019-03-04T12:27:41Z" finished-at="2019-03-04T12:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_12 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="123" started-at="2019-03-04T12:27:42Z" finished-at="2019-03-04T12:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:42Z" finished-at="2019-03-04T12:27:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="127" started-at="2019-03-04T12:27:43Z" finished-at="2019-03-04T12:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:43Z" finished-at="2019-03-04T12:27:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_13()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_13()[pri:13, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_13" duration-ms="1533" started-at="2019-03-04T12:27:43Z" finished-at="2019-03-04T12:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_13 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="192" started-at="2019-03-04T12:27:44Z" finished-at="2019-03-04T12:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:44Z" finished-at="2019-03-04T12:27:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_13()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="81" started-at="2019-03-04T12:27:44Z" finished-at="2019-03-04T12:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:44Z" finished-at="2019-03-04T12:27:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_14()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_14()[pri:14, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_14" duration-ms="1262" started-at="2019-03-04T12:27:44Z" finished-at="2019-03-04T12:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_14 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="126" started-at="2019-03-04T12:27:46Z" finished-at="2019-03-04T12:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:46Z" finished-at="2019-03-04T12:27:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_14()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:46Z" finished-at="2019-03-04T12:27:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_15()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="133" started-at="2019-03-04T12:27:46Z" finished-at="2019-03-04T12:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_15()[pri:15, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_15" duration-ms="1508" started-at="2019-03-04T12:27:46Z" finished-at="2019-03-04T12:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_15 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="137" started-at="2019-03-04T12:27:47Z" finished-at="2019-03-04T12:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:48Z" finished-at="2019-03-04T12:27:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_15()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:48Z" finished-at="2019-03-04T12:27:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_16()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="178" started-at="2019-03-04T12:27:48Z" finished-at="2019-03-04T12:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_16()[pri:16, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_16" duration-ms="1523" started-at="2019-03-04T12:27:48Z" finished-at="2019-03-04T12:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_16 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="149" started-at="2019-03-04T12:27:49Z" finished-at="2019-03-04T12:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:49Z" finished-at="2019-03-04T12:27:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_16()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:49Z" finished-at="2019-03-04T12:27:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_17()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="146" started-at="2019-03-04T12:27:49Z" finished-at="2019-03-04T12:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_17()[pri:17, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_17" duration-ms="1460" started-at="2019-03-04T12:27:50Z" finished-at="2019-03-04T12:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_17 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="111" started-at="2019-03-04T12:27:51Z" finished-at="2019-03-04T12:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:51Z" finished-at="2019-03-04T12:27:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_17()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:51Z" finished-at="2019-03-04T12:27:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_18()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="123" started-at="2019-03-04T12:27:51Z" finished-at="2019-03-04T12:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="FAIL" signature="addStaffs_18()[pri:18, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_18" duration-ms="1450" started-at="2019-03-04T12:27:51Z" finished-at="2019-03-04T12:27:53Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please select a file.] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please select a file.] but found []
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at testSelenium.testStaffs.addStaffs_18(testStaffs.java:402)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper$1.runTestMethod(MethodInvocationHelper.java:230)
+at org.springframework.test.context.testng.AbstractTestNGSpringContextTests.run(AbstractTestNGSpringContextTests.java:172)
+at org.testng.internal.MethodInvocationHelper.invokeHookable(MethodInvocationHelper.java:242)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:576)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_18 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="121" started-at="2019-03-04T12:27:53Z" finished-at="2019-03-04T12:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:53Z" finished-at="2019-03-04T12:27:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_18()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="109" started-at="2019-03-04T12:27:53Z" finished-at="2019-03-04T12:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:53Z" finished-at="2019-03-04T12:27:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_19()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_19()[pri:19, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_19" duration-ms="1540" started-at="2019-03-04T12:27:53Z" finished-at="2019-03-04T12:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_19 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="154" started-at="2019-03-04T12:27:55Z" finished-at="2019-03-04T12:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:55Z" finished-at="2019-03-04T12:27:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_19()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:55Z" finished-at="2019-03-04T12:27:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_20()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="183" started-at="2019-03-04T12:27:55Z" finished-at="2019-03-04T12:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_20()[pri:20, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_20" duration-ms="1724" started-at="2019-03-04T12:27:55Z" finished-at="2019-03-04T12:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_20 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="133" started-at="2019-03-04T12:27:57Z" finished-at="2019-03-04T12:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:57Z" finished-at="2019-03-04T12:27:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_20()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:57Z" finished-at="2019-03-04T12:27:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_21()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="134" started-at="2019-03-04T12:27:57Z" finished-at="2019-03-04T12:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_21()[pri:21, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_21" duration-ms="1505" started-at="2019-03-04T12:27:57Z" finished-at="2019-03-04T12:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_21 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="129" started-at="2019-03-04T12:27:58Z" finished-at="2019-03-04T12:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:27:58Z" finished-at="2019-03-04T12:27:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_21()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:27:59Z" finished-at="2019-03-04T12:27:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_22()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="132" started-at="2019-03-04T12:27:59Z" finished-at="2019-03-04T12:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_22()[pri:22, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_22" duration-ms="1566" started-at="2019-03-04T12:27:59Z" finished-at="2019-03-04T12:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_22 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="124" started-at="2019-03-04T12:28:00Z" finished-at="2019-03-04T12:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:00Z" finished-at="2019-03-04T12:28:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_22()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="129" started-at="2019-03-04T12:28:00Z" finished-at="2019-03-04T12:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:00Z" finished-at="2019-03-04T12:28:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_23()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_23()[pri:23, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_23" duration-ms="1433" started-at="2019-03-04T12:28:00Z" finished-at="2019-03-04T12:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_23 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="147" started-at="2019-03-04T12:28:02Z" finished-at="2019-03-04T12:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:02Z" finished-at="2019-03-04T12:28:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_23()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="144" started-at="2019-03-04T12:28:02Z" finished-at="2019-03-04T12:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:02Z" finished-at="2019-03-04T12:28:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_24()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_24()[pri:24, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_24" duration-ms="1800" started-at="2019-03-04T12:28:02Z" finished-at="2019-03-04T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_24 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="135" started-at="2019-03-04T12:28:04Z" finished-at="2019-03-04T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:04Z" finished-at="2019-03-04T12:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_24()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="147" started-at="2019-03-04T12:28:04Z" finished-at="2019-03-04T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:04Z" finished-at="2019-03-04T12:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_25()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_25()[pri:25, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_25" duration-ms="1963" started-at="2019-03-04T12:28:04Z" finished-at="2019-03-04T12:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_25 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="137" started-at="2019-03-04T12:28:06Z" finished-at="2019-03-04T12:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:06Z" finished-at="2019-03-04T12:28:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_25()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="2" started-at="2019-03-04T12:28:06Z" finished-at="2019-03-04T12:28:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_26()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="163" started-at="2019-03-04T12:28:06Z" finished-at="2019-03-04T12:28:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_26()[pri:26, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_26" duration-ms="1930" started-at="2019-03-04T12:28:07Z" finished-at="2019-03-04T12:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_26 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="246" started-at="2019-03-04T12:28:08Z" finished-at="2019-03-04T12:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:09Z" finished-at="2019-03-04T12:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_26()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="166" started-at="2019-03-04T12:28:09Z" finished-at="2019-03-04T12:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:09Z" finished-at="2019-03-04T12:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_27()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_27()[pri:27, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_27" duration-ms="1882" started-at="2019-03-04T12:28:09Z" finished-at="2019-03-04T12:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_27 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="150" started-at="2019-03-04T12:28:11Z" finished-at="2019-03-04T12:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:11Z" finished-at="2019-03-04T12:28:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_27()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:11Z" finished-at="2019-03-04T12:28:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_28()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="176" started-at="2019-03-04T12:28:11Z" finished-at="2019-03-04T12:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_28()[pri:28, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_28" duration-ms="1668" started-at="2019-03-04T12:28:11Z" finished-at="2019-03-04T12:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_28 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="145" started-at="2019-03-04T12:28:13Z" finished-at="2019-03-04T12:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:13Z" finished-at="2019-03-04T12:28:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_28()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="2" started-at="2019-03-04T12:28:13Z" finished-at="2019-03-04T12:28:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_29()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="102" started-at="2019-03-04T12:28:13Z" finished-at="2019-03-04T12:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_29()[pri:29, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_29" duration-ms="1741" started-at="2019-03-04T12:28:13Z" finished-at="2019-03-04T12:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_29 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="130" started-at="2019-03-04T12:28:15Z" finished-at="2019-03-04T12:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:15Z" finished-at="2019-03-04T12:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_29()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:15Z" finished-at="2019-03-04T12:28:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_30()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="114" started-at="2019-03-04T12:28:15Z" finished-at="2019-03-04T12:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_30()[pri:30, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_30" duration-ms="1594" started-at="2019-03-04T12:28:15Z" finished-at="2019-03-04T12:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_30 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="198" started-at="2019-03-04T12:28:17Z" finished-at="2019-03-04T12:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:17Z" finished-at="2019-03-04T12:28:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_30()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:17Z" finished-at="2019-03-04T12:28:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_31()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="152" started-at="2019-03-04T12:28:17Z" finished-at="2019-03-04T12:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_31()[pri:31, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_31" duration-ms="1930" started-at="2019-03-04T12:28:17Z" finished-at="2019-03-04T12:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_31 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="135" started-at="2019-03-04T12:28:19Z" finished-at="2019-03-04T12:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:19Z" finished-at="2019-03-04T12:28:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_31()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="153" started-at="2019-03-04T12:28:19Z" finished-at="2019-03-04T12:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:19Z" finished-at="2019-03-04T12:28:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_32()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_32()[pri:32, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_32" duration-ms="1559" started-at="2019-03-04T12:28:19Z" finished-at="2019-03-04T12:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_32 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="156" started-at="2019-03-04T12:28:21Z" finished-at="2019-03-04T12:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:21Z" finished-at="2019-03-04T12:28:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_32()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:21Z" finished-at="2019-03-04T12:28:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_33()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="150" started-at="2019-03-04T12:28:21Z" finished-at="2019-03-04T12:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_33()[pri:33, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_33" duration-ms="2031" started-at="2019-03-04T12:28:21Z" finished-at="2019-03-04T12:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_33 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="146" started-at="2019-03-04T12:28:23Z" finished-at="2019-03-04T12:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:23Z" finished-at="2019-03-04T12:28:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_33()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="132" started-at="2019-03-04T12:28:23Z" finished-at="2019-03-04T12:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:23Z" finished-at="2019-03-04T12:28:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_34()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_34()[pri:34, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_34" duration-ms="2024" started-at="2019-03-04T12:28:23Z" finished-at="2019-03-04T12:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_34 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="164" started-at="2019-03-04T12:28:25Z" finished-at="2019-03-04T12:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:26Z" finished-at="2019-03-04T12:28:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_34()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="145" started-at="2019-03-04T12:28:26Z" finished-at="2019-03-04T12:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:26Z" finished-at="2019-03-04T12:28:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_35()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_35()[pri:35, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_35" duration-ms="1678" started-at="2019-03-04T12:28:26Z" finished-at="2019-03-04T12:28:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_35 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="170" started-at="2019-03-04T12:28:27Z" finished-at="2019-03-04T12:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:28Z" finished-at="2019-03-04T12:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_35()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:28Z" finished-at="2019-03-04T12:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_36()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="165" started-at="2019-03-04T12:28:28Z" finished-at="2019-03-04T12:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_36()[pri:36, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_36" duration-ms="1673" started-at="2019-03-04T12:28:28Z" finished-at="2019-03-04T12:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_36 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="92" started-at="2019-03-04T12:28:29Z" finished-at="2019-03-04T12:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:29Z" finished-at="2019-03-04T12:28:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_37()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:29Z" finished-at="2019-03-04T12:28:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_36()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="127" started-at="2019-03-04T12:28:29Z" finished-at="2019-03-04T12:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_37()[pri:37, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_37" duration-ms="1857" started-at="2019-03-04T12:28:30Z" finished-at="2019-03-04T12:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_37 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="142" started-at="2019-03-04T12:28:31Z" finished-at="2019-03-04T12:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:32Z" finished-at="2019-03-04T12:28:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_37()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:32Z" finished-at="2019-03-04T12:28:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_38()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="151" started-at="2019-03-04T12:28:32Z" finished-at="2019-03-04T12:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_38()[pri:38, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_38" duration-ms="1848" started-at="2019-03-04T12:28:32Z" finished-at="2019-03-04T12:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_38 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="122" started-at="2019-03-04T12:28:34Z" finished-at="2019-03-04T12:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:34Z" finished-at="2019-03-04T12:28:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_38()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:34Z" finished-at="2019-03-04T12:28:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_39()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="158" started-at="2019-03-04T12:28:34Z" finished-at="2019-03-04T12:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_39()[pri:39, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_39" duration-ms="2068" started-at="2019-03-04T12:28:34Z" finished-at="2019-03-04T12:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_39 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="163" started-at="2019-03-04T12:28:36Z" finished-at="2019-03-04T12:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:36Z" finished-at="2019-03-04T12:28:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_39()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:36Z" finished-at="2019-03-04T12:28:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_40()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="162" started-at="2019-03-04T12:28:36Z" finished-at="2019-03-04T12:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_40()[pri:40, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_40" duration-ms="2102" started-at="2019-03-04T12:28:36Z" finished-at="2019-03-04T12:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_40 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="199" started-at="2019-03-04T12:28:38Z" finished-at="2019-03-04T12:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:39Z" finished-at="2019-03-04T12:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_40()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:39Z" finished-at="2019-03-04T12:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_41()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="131" started-at="2019-03-04T12:28:39Z" finished-at="2019-03-04T12:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_41()[pri:41, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_41" duration-ms="2210" started-at="2019-03-04T12:28:39Z" finished-at="2019-03-04T12:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_41 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="139" started-at="2019-03-04T12:28:41Z" finished-at="2019-03-04T12:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:41Z" finished-at="2019-03-04T12:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_41()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="157" started-at="2019-03-04T12:28:41Z" finished-at="2019-03-04T12:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:41Z" finished-at="2019-03-04T12:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_42()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_42()[pri:42, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_42" duration-ms="1717" started-at="2019-03-04T12:28:41Z" finished-at="2019-03-04T12:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_42 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="138" started-at="2019-03-04T12:28:43Z" finished-at="2019-03-04T12:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:43Z" finished-at="2019-03-04T12:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_42()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:43Z" finished-at="2019-03-04T12:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_43()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="112" started-at="2019-03-04T12:28:43Z" finished-at="2019-03-04T12:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_43()[pri:43, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_43" duration-ms="1909" started-at="2019-03-04T12:28:43Z" finished-at="2019-03-04T12:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_43 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="188" started-at="2019-03-04T12:28:45Z" finished-at="2019-03-04T12:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:45Z" finished-at="2019-03-04T12:28:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_43()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="133" started-at="2019-03-04T12:28:45Z" finished-at="2019-03-04T12:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:45Z" finished-at="2019-03-04T12:28:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_44()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_44()[pri:44, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_44" duration-ms="2135" started-at="2019-03-04T12:28:45Z" finished-at="2019-03-04T12:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_44 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="160" started-at="2019-03-04T12:28:48Z" finished-at="2019-03-04T12:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:48Z" finished-at="2019-03-04T12:28:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_44()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="154" started-at="2019-03-04T12:28:48Z" finished-at="2019-03-04T12:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:48Z" finished-at="2019-03-04T12:28:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_45()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addStaffs_45()[pri:45, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_45" duration-ms="2148" started-at="2019-03-04T12:28:48Z" finished-at="2019-03-04T12:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_45 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="184" started-at="2019-03-04T12:28:50Z" finished-at="2019-03-04T12:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:50Z" finished-at="2019-03-04T12:28:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_45()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:50Z" finished-at="2019-03-04T12:28:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_46()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="181" started-at="2019-03-04T12:28:50Z" finished-at="2019-03-04T12:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_46()[pri:46, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_46" duration-ms="3969" started-at="2019-03-04T12:28:50Z" finished-at="2019-03-04T12:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_46 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="208" started-at="2019-03-04T12:28:54Z" finished-at="2019-03-04T12:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:28:55Z" finished-at="2019-03-04T12:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_46()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:55Z" finished-at="2019-03-04T12:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_47()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="189" started-at="2019-03-04T12:28:55Z" finished-at="2019-03-04T12:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_47()[pri:47, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_47" duration-ms="2858" started-at="2019-03-04T12:28:55Z" finished-at="2019-03-04T12:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_47 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="136" started-at="2019-03-04T12:28:58Z" finished-at="2019-03-04T12:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:58Z" finished-at="2019-03-04T12:28:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_48()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:28:58Z" finished-at="2019-03-04T12:28:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_47()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="108" started-at="2019-03-04T12:28:58Z" finished-at="2019-03-04T12:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_48()[pri:48, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_48" duration-ms="2955" started-at="2019-03-04T12:28:58Z" finished-at="2019-03-04T12:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_48 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="203" started-at="2019-03-04T12:29:01Z" finished-at="2019-03-04T12:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:01Z" finished-at="2019-03-04T12:29:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_48()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:01Z" finished-at="2019-03-04T12:29:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_49()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="125" started-at="2019-03-04T12:29:01Z" finished-at="2019-03-04T12:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_49()[pri:49, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_49" duration-ms="3304" started-at="2019-03-04T12:29:01Z" finished-at="2019-03-04T12:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_49 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="154" started-at="2019-03-04T12:29:04Z" finished-at="2019-03-04T12:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:05Z" finished-at="2019-03-04T12:29:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_49()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:05Z" finished-at="2019-03-04T12:29:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_50()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="haha" is-config="true" duration-ms="168" started-at="2019-03-04T12:29:05Z" finished-at="2019-03-04T12:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addStaffs_50()[pri:50, instance:testSelenium.testStaffs@731f8236]" name="addStaffs_50" duration-ms="3555" started-at="2019-03-04T12:29:05Z" finished-at="2019-03-04T12:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffs_50 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="clear" is-config="true" duration-ms="142" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testStaffs.addStaffs_50()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- testSelenium.testStaffs -->
+      <class name="testSelenium.testDeparts">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="setup" is-config="true" duration-ms="10417" started-at="2019-03-04T12:27:03Z" finished-at="2019-03-04T12:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="setup" is-config="true" duration-ms="5325" started-at="2019-03-04T12:27:13Z" finished-at="2019-03-04T12:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="6" started-at="2019-03-04T12:29:08Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2019-03-04T12:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="336" started-at="2019-03-04T12:29:08Z" finished-at="2019-03-04T12:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_01()[pri:51, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_01" duration-ms="1290" started-at="2019-03-04T12:29:09Z" finished-at="2019-03-04T12:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_01 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="362" started-at="2019-03-04T12:29:10Z" finished-at="2019-03-04T12:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:10Z" finished-at="2019-03-04T12:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:10Z" finished-at="2019-03-04T12:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_02()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="84" started-at="2019-03-04T12:29:10Z" finished-at="2019-03-04T12:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_02()[pri:52, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_02" duration-ms="1266" started-at="2019-03-04T12:29:11Z" finished-at="2019-03-04T12:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_02 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="116" started-at="2019-03-04T12:29:12Z" finished-at="2019-03-04T12:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:12Z" finished-at="2019-03-04T12:29:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_02()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="82" started-at="2019-03-04T12:29:12Z" finished-at="2019-03-04T12:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:12Z" finished-at="2019-03-04T12:29:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addDeparts_03()[pri:53, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_03" duration-ms="1200" started-at="2019-03-04T12:29:12Z" finished-at="2019-03-04T12:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_03 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="157" started-at="2019-03-04T12:29:13Z" finished-at="2019-03-04T12:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:13Z" finished-at="2019-03-04T12:29:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:13Z" finished-at="2019-03-04T12:29:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_04()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="68" started-at="2019-03-04T12:29:13Z" finished-at="2019-03-04T12:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_04()[pri:54, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_04" duration-ms="1249" started-at="2019-03-04T12:29:13Z" finished-at="2019-03-04T12:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_04 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="156" started-at="2019-03-04T12:29:15Z" finished-at="2019-03-04T12:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:15Z" finished-at="2019-03-04T12:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_04()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:15Z" finished-at="2019-03-04T12:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_05()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="65" started-at="2019-03-04T12:29:15Z" finished-at="2019-03-04T12:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_05()[pri:55, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_05" duration-ms="1236" started-at="2019-03-04T12:29:15Z" finished-at="2019-03-04T12:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_05 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="132" started-at="2019-03-04T12:29:16Z" finished-at="2019-03-04T12:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:16Z" finished-at="2019-03-04T12:29:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_05()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:16Z" finished-at="2019-03-04T12:29:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_06()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="81" started-at="2019-03-04T12:29:16Z" finished-at="2019-03-04T12:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_06()[pri:56, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_06" duration-ms="1337" started-at="2019-03-04T12:29:16Z" finished-at="2019-03-04T12:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_06 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="221" started-at="2019-03-04T12:29:18Z" finished-at="2019-03-04T12:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:18Z" finished-at="2019-03-04T12:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_06()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="110" started-at="2019-03-04T12:29:18Z" finished-at="2019-03-04T12:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:18Z" finished-at="2019-03-04T12:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_07()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addDeparts_07()[pri:57, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_07" duration-ms="1400" started-at="2019-03-04T12:29:18Z" finished-at="2019-03-04T12:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_07 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="157" started-at="2019-03-04T12:29:19Z" finished-at="2019-03-04T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:20Z" finished-at="2019-03-04T12:29:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_07()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:20Z" finished-at="2019-03-04T12:29:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_08()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="90" started-at="2019-03-04T12:29:20Z" finished-at="2019-03-04T12:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_08()[pri:58, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_08" duration-ms="1405" started-at="2019-03-04T12:29:20Z" finished-at="2019-03-04T12:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_08 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="148" started-at="2019-03-04T12:29:21Z" finished-at="2019-03-04T12:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:21Z" finished-at="2019-03-04T12:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_08()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="104" started-at="2019-03-04T12:29:21Z" finished-at="2019-03-04T12:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:21Z" finished-at="2019-03-04T12:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_09()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addDeparts_09()[pri:59, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_09" duration-ms="2450" started-at="2019-03-04T12:29:21Z" finished-at="2019-03-04T12:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_09 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="227" started-at="2019-03-04T12:29:24Z" finished-at="2019-03-04T12:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2019-03-04T12:29:24Z" finished-at="2019-03-04T12:29:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_09()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="133" started-at="2019-03-04T12:29:24Z" finished-at="2019-03-04T12:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:24Z" finished-at="2019-03-04T12:29:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_10()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addDeparts_10()[pri:60, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_10" duration-ms="1937" started-at="2019-03-04T12:29:24Z" finished-at="2019-03-04T12:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_10 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="122" started-at="2019-03-04T12:29:26Z" finished-at="2019-03-04T12:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:26Z" finished-at="2019-03-04T12:29:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:26Z" finished-at="2019-03-04T12:29:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_10()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="63" started-at="2019-03-04T12:29:26Z" finished-at="2019-03-04T12:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_11()[pri:61, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_11" duration-ms="1950" started-at="2019-03-04T12:29:26Z" finished-at="2019-03-04T12:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_11 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="118" started-at="2019-03-04T12:29:28Z" finished-at="2019-03-04T12:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:28Z" finished-at="2019-03-04T12:29:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:28Z" finished-at="2019-03-04T12:29:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="71" started-at="2019-03-04T12:29:28Z" finished-at="2019-03-04T12:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="addDeparts_12()[pri:62, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_12" duration-ms="1861" started-at="2019-03-04T12:29:28Z" finished-at="2019-03-04T12:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_12 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="133" started-at="2019-03-04T12:29:30Z" finished-at="2019-03-04T12:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:30Z" finished-at="2019-03-04T12:29:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_12()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="haha()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="haha" is-config="true" duration-ms="94" started-at="2019-03-04T12:29:30Z" finished-at="2019-03-04T12:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- haha -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:30Z" finished-at="2019-03-04T12:29:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_13()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="addDeparts_13()[pri:63, instance:testSelenium.testDeparts@255b53dc]" name="addDeparts_13" duration-ms="2165" started-at="2019-03-04T12:29:31Z" finished-at="2019-03-04T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeparts_13 -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="clear" is-config="true" duration-ms="163" started-at="2019-03-04T12:29:33Z" finished-at="2019-03-04T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:33Z" finished-at="2019-03-04T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2019-03-04T12:29:33Z" finished-at="2019-03-04T12:29:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testSelenium.testDeparts.addDeparts_13()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testSelenium.testDeparts@255b53dc]" name="close" is-config="true" duration-ms="55" started-at="2019-03-04T12:29:33Z" finished-at="2019-03-04T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testSelenium.testStaffs@731f8236]" name="close" is-config="true" duration-ms="2363" started-at="2019-03-04T12:29:33Z" finished-at="2019-03-04T12:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testSelenium.testDeparts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
